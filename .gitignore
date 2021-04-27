@@ -6,3 +6,4 @@ test/test*
 **/*.eps
 .DS_Store
 .tags
+**/*.tex
