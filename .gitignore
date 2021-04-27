@@ -1,2 +1,4 @@
 bin/chromedriver
 test/Untitled.ipynb
+**/.ipynb_checkpoints/*
+test/test*
