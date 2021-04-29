@@ -7,3 +7,5 @@ test/test*
 .DS_Store
 .tags
 **/*.tex
+**/*.bib
+**/*.bst
