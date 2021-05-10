@@ -2,6 +2,7 @@
 
 ## ToDo list
 
+* \def\new\old 型の newcommand に対応
 * document環境が第1階層にないと対応できない点を改善 [1905.04319]
 * 上と関連して、document環境内に文章全体を覆う環境が別にあると壊滅的な点を改善 [2011.02484]
 * 上と関連して、section/footnote環境やfigure環境のcaptionなども翻訳
